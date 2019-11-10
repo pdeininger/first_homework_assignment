@@ -8,8 +8,78 @@ margin: 0;
 font-size: 20 px;
 line-height: 24 px;
 color: #777777;
-font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
 background:  url("../images/honey_im_subtle.png");
+}
+
+#pix1 {
+    float: left;
+    padding: 20px;
+    margin-left: 30px;
+}
+
+#pix2 {
+    float: left;
+    width: 33.3%;
+}
+
+#pix3 {
+    position: relative;
+    float: left;
+    padding: 20px;
+    margin-top: 25px;
+  
+}
+
+#pix4 {
+    float: left;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#pix5 {
+    float:  left;
+    padding: 20px;
+}
+
+#myname {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    width: 200px;
+    height: 75px;
+    background:  #4aaaa5;
+    color: #ffffff;
+}
+
+header {
+    background: #4aaaa5;
+    width: 100px;
+    height: 75px;
+    position: fixed;
+    color: #ffffff;
+}
+
+.container {
+    float: left;
+    max-width: 960px;
+    width: 100%;
+    background: #ffffff;
+    margin: 75 px;
+    
+}
+
+h1
+{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:  #4aaaa5
+}
+
+h3
+{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:  #ffffff;
+
 }
 
 .portfolioImages
@@ -18,19 +88,17 @@ background:  url("../images/honey_im_subtle.png");
    width: 200px;
 }
 
-.container{
+.container {
     width:  100%;
     max-width: 960px;
     margin: 0 auto;
+
 }
     .wrapper {
      max-width:  960px;
      width:  100%;
      margin:  0 auto;
-    }
-
-
-    
+    }    
 
 #fixed {
     font-size:  24px;
