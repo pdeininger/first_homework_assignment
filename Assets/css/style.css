@@ -20,26 +20,22 @@ background:  url("../images/honey_im_subtle.png");
 
 #pix2 {
     float: left;
-    width: 33.3%;
+    padding: 20px;
+    margin-left: 50px;
 }
 
 #pix3 {
-    position: relative;
-    float: left;
-    padding: 20px;
-    margin-top: 25px;
-  
+    margin-top: 200px;
 }
 
 #pix4 {
-    float: left;
-    padding: 20px;
-    margin-top: 20px;
+    padding:  20px
+    margin-top: 200px;
 }
 
 #pix5 {
-    float:  left;
     padding: 20px;
+    margin-top: 400 px;
 }
 
 #myname {
@@ -47,7 +43,7 @@ background:  url("../images/honey_im_subtle.png");
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     width: 200px;
-    height: 75px;
+    height: 50px;
     background:  #4aaaa5;
     color: #ffffff;
 }
@@ -62,8 +58,8 @@ header {
 
 .container {
     float: left;
-    max-width: 960px;
-    width: 100%;
+    max-width: 240px;
+    width: 33%;
     background: #ffffff;
     margin: 75 px;
     
@@ -119,3 +115,25 @@ border-bottom:  #cccccc;
 #paragraph {
    max-width: 960px; 
 }
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .content {
+    min-height: 100%;
+  }
+  .content-inside {
+    padding: 20px;
+    padding-bottom: 50px;
+  }
+  .footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 16px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+  }
