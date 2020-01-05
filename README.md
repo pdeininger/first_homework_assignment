@@ -5,6 +5,8 @@ The Portfolio is the first homework assignment for the University of Richmond Fu
 ![image](https://user-images.githubusercontent.com/57072421/71784936-7075ff00-2fc7-11ea-95af-65c92991e29e.png)
 
 ## License
+Copyright (c) 2019 Pamela Deininger
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
